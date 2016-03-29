@@ -1,0 +1,22 @@
+header, nav, figure, footer { display: block; } 
+body { background-image: url("http://picgang.com/wp-content/uploads/2015/03/Funny_Summer_Wallpaper_in_Beach.jpg");
+	color: #66FFCC;
+	font-family: Verdana;
+	line-height: 200%;}
+#wrapper { margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	font-weight: bold;
+	min-width: 700px;
+	color: #000000;}
+#leftcolumn { text-align: center;
+	float: left;
+	width: 100px;
+	padding-top: 100px;
+	font-weight: normal; }
+#rightcolumn { padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 10px; 
+	margin-left: 480px;
+	color: #FFFFFF; }
